@@ -124,4 +124,4 @@ Le dashboard permet de suivre :
 - **Code source :** [GitHub Repository](https://glorious-palm-tree-xpj65gwvqrgcrj7.github.dev/)
 - **Dashboard :** [Looker Studio](https://datastudio.google.com/reporting/1c419126-e671-4025-9076-7bc327eba984)
 
-*Projet personnel réalisé à des fins d'apprentissage pratique à partir d'un tutoriel technique.*
+*Projet personnel réalisé à des fins d'apprentissage pratique.*
